@@ -16,9 +16,9 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS
 
- 💻  Soy un desarrollador de software apasionado por la tecnología, tengo experiencia en PHP (Laravel), JavaScript (especialmente Vue.js).
-     Estoy en constante actualización para mantenerme al día con los cambios en las tecnologías, aprendiendo nuevas habilidades.
-     Busco oportunidades para contribuir en proyectos que me permitan crecer profesionalmente y aportar valor.
+ 💻 Soy un desarrollador de software apasionado por la tecnología, con experiencia en PHP (Laravel) y JavaScript (especialmente Vue.js).
+   Estoy en constante actualización para mantenerme al día con los cambios en las tecnologías, aprendiendo nuevas habilidades.
+   Busco oportunidades para contribuir en proyectos que me permitan crecer profesionalmente y aportar valor.
      
 📝 roles en el ámbito: Desarrollador de Software, Full Stack Developer
 
