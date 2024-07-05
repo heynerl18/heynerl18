@@ -26,6 +26,8 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS
 
+💻 Soy un desarrollador de software apasionado por la tecnología, tengo experiencia en PHP(Laravel), JavaScript (especialmente Vue.js)
+
 
 📫 Contacto: **heynerleiva18@gmail.com**
 <!--Intro end-->
