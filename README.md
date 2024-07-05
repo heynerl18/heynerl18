@@ -23,6 +23,13 @@
   </p>
 <br>
 <h2>Sobre mí 😃</h2>
+<p align="left">
+🎓 INGENIERO EN SISTEMAS
+
+
+📫 Contacto: **heynerleiva18@gmail.com**
+<!--Intro end-->
+  </p>
 
 
 
