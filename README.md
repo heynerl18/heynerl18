@@ -21,7 +21,13 @@
      Busco oportunidades para contribuir en proyectos que me permitan crecer profesionalmente y aportar valor.
 
      
-📝 roles en el ámbito: Desarrollador de Software, Full Stack Developer
+<p>
+    💻 Roles en el ámbito:<br>
+    - Desarrollador de Software<br>
+    - Full Stack Developer<br>
+    - Desarrollador Backend<br>
+    - Desarrollador Frontend
+</p>
 
 📫 Contacto: **heynerleiva18@gmail.com**
 <!--Intro end-->
