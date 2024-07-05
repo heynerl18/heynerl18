@@ -2,7 +2,7 @@
 <div align="center"> 
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, soy Heyner</h1></summary>
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+	  <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
   </ul>
 </div>
 
