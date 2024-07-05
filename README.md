@@ -1,8 +1,8 @@
 
 <div align="center"> 
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Heyner</h1></summary>
-    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+    <summary><h1 style="display: inline-block">Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, soy Heyner</h1></summary>
+    
   </ul>
 </div>
 
