@@ -16,14 +16,9 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS
 
- 💻 <p>Soy un desarrollador de software apasionado por la tecnología,
-tengo experiencia en PHP (Laravel), JavaScript (especialmente Vue.js).
-<span style="margin-right: 10px;"></span>
-Estoy en constante actualización para mantenerme al día con los cambios en las tecnologías,
-aprendiendo nuevas habilidades.
-<span style="margin-right: 20px;"></span>
-Me interesa colaborar en proyectos que me permitan crecer profesionalmente y aportar valor.</p>
-
+ 💻  Soy un desarrollador de software apasionado por la tecnología, tengo experiencia en PHP (Laravel), JavaScript (especialmente Vue.js).
+     Estoy en constante actualización para mantenerme al día con los cambios en las tecnologías, aprendiendo nuevas habilidades.
+     Me interesa colaborar en proyectos que me permitan crecer profesionalmente y aportar valor.
 
 📫 Contacto: **heynerleiva18@gmail.com**
 <!--Intro end-->
