@@ -20,7 +20,7 @@
      Estoy en constante actualización para mantenerme al día con los cambios en las tecnologías, aprendiendo nuevas habilidades.
      Busco oportunidades para contribuir en proyectos que me permitan crecer profesionalmente y aportar valor.
      
-📝 roles en el ámbito: Desarrollador de Software
+📝 roles en el ámbito: Desarrollador de Software, Full Stack Developer
 
 📫 Contacto: **heynerleiva18@gmail.com**
 <!--Intro end-->
