@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <ul align="center">
+  <ul align="center" style="decoration:none;">
     <summary><h1 style="display: inline-block">Hola 👋, soy Heyner</h1></summary>
   </ul>
 </div>
