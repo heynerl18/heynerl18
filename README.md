@@ -1,14 +1,4 @@
 
-<!--<div align="center"> 
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, soy Heyner</h1></summary>
-  </ul>
-</div>
-
-<div align = "center">
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</div>-->
-
 
 <div align = "center">
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -26,7 +16,7 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS
 
-💻 Soy un desarrollador de software apasionado por la tecnología, tengo experiencia en PHP(Laravel), JavaScript (especialmente Vue.js)
+💻 Soy un desarrollador de software apasionado por la tecnología, tengo experiencia en PHP (Laravel), JavaScript (especialmente Vue.js). Estoy en constante actualización para mantenerme al día con los cambios en las tecnologías, aprendiendo nuevas habilidades. Me interesa colaborar en proyectos que me permitan crecer profesionalmente y aportar valor.
 
 
 📫 Contacto: **heynerleiva18@gmail.com**
