@@ -22,12 +22,9 @@
 
      
 <p>
-    💻 Roles en el ámbito:<br>
-    - Desarrollador de Software<br>
-    - Full Stack Developer<br>
-    - Desarrollador Backend<br>
-    - Desarrollador Frontend
+    💻 Roles en el ámbito: Desarrollador de Software, Full Stack Developer, Desarrollador Backend, Desarrollador Frontend.
 </p>
+
 
 📫 Contacto: **heynerleiva18@gmail.com**
 <!--Intro end-->
