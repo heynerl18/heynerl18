@@ -53,7 +53,7 @@
        </a>
      </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank" rel="noopener noreferrer">
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank" rel="noopener noreferrer">
 	<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
       </a>
     </p>       
