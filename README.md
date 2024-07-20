@@ -48,7 +48,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-       <a href="https://herouniverse-spa.netlify.app" target="_blank" title="Go to Source">
+       <a href="https://herouniverse-spa.netlify.app" target="_blank" rel="noopener noreferrer" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" />
        </a>
      </p>
