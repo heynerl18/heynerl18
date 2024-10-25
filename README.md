@@ -60,7 +60,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://eventschedulerapp.netlify.app/" title="Go to Source">
+     <a href="https://eventschedulerapp.netlify.app/">
         <img align="center" width=100% src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png"   alt="app" /></a>
       </p>
     <p align="center">
@@ -68,7 +68,7 @@
     </p>       
 </td> 
   
-  <td width="25%" align="center">
+  <!--<td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
@@ -86,7 +86,7 @@
     <p align="center">
       <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
-</td>
+</td> -->
   
 </tr>
 </table>
