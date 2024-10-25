@@ -54,14 +54,14 @@
      </p>
     <p align="center">
       <a href="https://github.com/heynerl18/heroes-spa">
-	<img align="center" src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png" alt="@unsimpledev" />
+	<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@heynerld" />
       </a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
