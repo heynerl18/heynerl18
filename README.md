@@ -60,11 +60,11 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png"   alt="VIDEO" /></a>
+     <a href="https://eventschedulerapp.netlify.app/" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png"   alt="app" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/heynerl18/CalendarApp.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td> 
   
