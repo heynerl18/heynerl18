@@ -48,7 +48,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-       <a href="https://herouniverse-spa.netlify.app" target="_blank">
+       <a href="https://herouniverse-spa.netlify.app" target="_blank" rel="noopener noreferrer">
         <img align="center" width=100% src="https://github.com/heynerl18/heroes-spa/blob/main/heroes.jpg"   alt="Heroes" />
        </a>
      </p>
@@ -60,7 +60,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://eventschedulerapp.netlify.app/">
+     <a href="https://eventschedulerapp.netlify.app/" target="_blank" rel="noopener noreferrer">
         <img align="center" width=100% src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png"   alt="app" /></a>
       </p>
     <p align="center">
