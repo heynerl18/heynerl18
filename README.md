@@ -14,7 +14,7 @@
 <br>
 <h2>Sobre mí 😃</h2>
 <p align="left">
-  👨🏻‍💻 Desarrollador de software
+  👨🏻‍💻 Desarrollador web
 <p>
  💻  Estoy aquí para conectar y aportar valor con mis habilidades en desarrollo web y bases de datos. Tengo experiencia en PHP, Laravel, JavaScript (Vue.js), SQL y estoy siempre dispuesto a aprender y adaptarme a nuevas tecnologías según lo requiera el proyecto. Mi objetivo es contribuir de manera efectiva en la resolución de desafíos técnicos y el desarrollo de soluciones eficientes. Me siento cómodo colaborando en equipo y me adapto rápidamente para aportar en cada proyecto.
 </p>
