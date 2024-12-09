@@ -79,7 +79,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://life-journal.netlify.app" title="Go to Website">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="app-image" /></a>
+        <img align="center" width=100% src="https://github.com/heynerl18/JournalApp/blob/main/Aplicacion-de-diarios.png" alt="app-image" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/heynerl18/JournalApp.git" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
