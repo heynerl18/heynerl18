@@ -46,8 +46,8 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-       <a href="https://herouniverse-spa.netlify.app" target="_blank" rel="noopener noreferrer">
-        <img align="center" width=100% src="https://github.com/heynerl18/heroes-spa/blob/main/heroes.jpg"   alt="Heroes" />
+       <a href="https://herouniverse-spa.netlify.app" target="_blank" title="Go to Website">
+        <img align="center" width=100% src="https://github.com/heynerl18/heroes-spa/blob/main/heroes.jpg"   alt="app-image" />
        </a>
      </p>
     <p align="center">
@@ -58,33 +58,33 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://eventschedulerapp.netlify.app/" target="_blank" rel="noopener noreferrer">
-        <img align="center" width=100% src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png"   alt="app" /></a>
+     <a href="https://eventschedulerapp.netlify.app/" target="_blank" title="Go to Website">
+        <img align="center" width=100% src="https://github.com/heynerl18/CalendarApp/blob/main/EventSchedulerApp.png"   alt="app-image" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/heynerl18/CalendarApp.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/heynerl18/CalendarApp.git" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@heynerld" /></a>
     </p>       
 </td> 
   
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.manejopresupuesto.somee.com" title="Go to Source">
+     <a href="https://www.manejopresupuesto.somee.com" target="_blank" title="Go to Website">
         <img align="center" width=100% src="https://github.com/heynerl18/ManejoPresupuesto/blob/master/Manejo-Presupuesto.png"   alt="app-image" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/heynerl18/ManejoPresupuesto.git" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/heynerl18/ManejoPresupuesto.git" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@heynerld" /></a>
     </p>       
 </td>
 
-   <!--<td width="25%" align="center">
+<td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+     <a href="https://life-journal.netlify.app" title="Go to Website">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="app-image" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/heynerl18/JournalApp.git" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
-</td> -->
+</td>
   
 </tr>
 </table>
