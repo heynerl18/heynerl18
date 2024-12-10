@@ -47,7 +47,7 @@
   <td width="25%" align="center">
     <p align="center">
        <a href="https://herouniverse-spa.netlify.app" target="_blank" title="Go to Website">
-        <img align="center" width=100% src="https://github.com/heynerl18/heroes-spa/blob/main/heroes.jpg"   alt="app-image" />
+        <img align="center" width=100% src="https://github.com/heynerl18/heroes-spa/blob/main/Heroes-Image.png"   alt="heroes-image" />
        </a>
      </p>
     <p align="center">
