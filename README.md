@@ -9,7 +9,7 @@
 	
 
 <a href="https://www.linkedin.com/in/heyner-leiva-diaz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:heynerleiva18@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:heynerleiva96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@heyner"  /></a>
   </p>
 <br>
 <h2>Sobre mí 😃</h2>
@@ -25,7 +25,7 @@
 </p>
 
 
-📫 Contacto: **heynerleiva18@gmail.com**
+📫 Contacto: **heynerleiva96@gmail.com**
 <!--Intro end-->
   </p>
   <br>
@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,laravel,java,dotnet,css,bootstrap,materialui,html,babel,js,ts,jquery,vuejs,pinia,react,redux,nodejs,express,mysql,sqlite,firebase,npm,git,github,docker,postman,phpstorm,eclipse,sublime,vscode,visualstudio,stackoverflow,bitbucket,notion,powershell,linux,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,php,laravel,java,dotnet,css,bootstrap,tailwind,materialui,html,babel,js,ts,jquery,vuejs,pinia,react,redux,nodejs,express,mysql,sqlite,firebase,npm,git,github,docker,postman,phpstorm,eclipse,sublime,vscode,visualstudio,stackoverflow,bitbucket,notion,figma,powershell,linux,&perline=12" />
   </a>
 </p>
 <br>
