@@ -66,7 +66,7 @@
     </p>       
 </td> 
   
-<td width="25%" align="center">
+<!--<td width="25%" align="center">
     <p align="center">
      <a href="https://www.manejopresupuesto.somee.com" target="_blank" title="Go to Website">
         <img align="center" width=100% src="https://github.com/heynerl18/ManejoPresupuesto/blob/master/Manejo-Presupuesto.png"   alt="app-image" /></a>
@@ -74,7 +74,7 @@
     <p align="center">
       <a href="https://github.com/heynerl18/ManejoPresupuesto.git" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@heynerld" /></a>
     </p>       
-</td>
+</td>-->
 
 <td width="25%" align="center">
     <p align="center">
