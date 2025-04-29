@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,laravel,java,dotnet,css,bootstrap,tailwind,materialui,html,babel,js,ts,jquery,vuejs,pinia,react,redux,nodejs,flutter,express,mysql,sqlite,firebase,npm,git,github,docker,postman,phpstorm,eclipse,sublime,vscode,visualstudio,stackoverflow,bitbucket,notion,figma,powershell,linux,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,php,laravel,java,dotnet,css,bootstrap,tailwind,materialui,html,babel,js,ts,jquery,vuejs,pinia,react,redux,nodejs,flutter,express,mysql,sqlite,firebase,androidstudio,npm,git,github,docker,postman,phpstorm,eclipse,sublime,vscode,visualstudio,stackoverflow,bitbucket,notion,figma,powershell,linux,&perline=12" />
   </a>
 </p>
 <br>
